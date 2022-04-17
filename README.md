@@ -20,6 +20,8 @@ To purchase please contact: https://t.me/andycryptodev
 
 Let's start configuring the server to run the bot immediately after purchase.
 
+git clone https://github.com/AndyCryptoDev/fast_buy_sell_bot.git
+
 1) Run 'installserverbash.sh'
 
 2) From 'sniper_bot' directory, create a self-signed ssl certificate for webhooks. Use these commands:
