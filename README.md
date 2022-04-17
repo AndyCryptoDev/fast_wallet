@@ -47,3 +47,5 @@ We will be asked to enter some information about ourselves: two-letter country c
 5) Filling out the config file
 
 ![7](https://user-images.githubusercontent.com/103894785/163729359-7f2f2722-32b5-4f68-b8d3-daacab401c3c.jpg)
+
+In total you will have 5 files in the folder fast_buy_sell_bot 
