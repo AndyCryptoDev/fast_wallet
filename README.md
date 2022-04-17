@@ -20,17 +20,19 @@ To purchase please contact: https://t.me/andycryptodev
 
 Let's start configuring the server to run the bot immediately after purchase.
 
-git clone https://github.com/AndyCryptoDev/fast_buy_sell_bot.git
+1) Clone the repository to your server. Use this command:
 
-1) Run 'installserverbash.sh'
+# git clone https://github.com/AndyCryptoDev/fast_buy_sell_bot.git
 
-2) From 'sniper_bot' directory, create a self-signed ssl certificate for webhooks. Use these commands:
+2) From 'fast_buy_sell_bot' directory you need run bash script. Use these commands:
 
-apt-get install openssl
+# cd fast_buy_sell_bot
 
-openssl genrsa -out webhook_pkey.pem 2048
+# chmod +x ./installserverbash.sh
 
-openssl req -new -x509 -days 3650 -key webhook_pkey.pem -out webhook_cert.pem
+#  ./installserverbash.sh
+
+A couple of times during the execution of the script you will need to press "Y" to agree with the execution of the command.
 
 We will be asked to enter some information about ourselves: two-letter country code, organization name, etc. If you don't want to write anything, put a dot in the box. IMPORTANT: when you get to the point to enter "Common Name", you must write the IP address of the server on which the bot will run.
 
