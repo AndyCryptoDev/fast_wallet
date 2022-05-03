@@ -26,11 +26,7 @@ Let's start configuring the server to run the bot immediately after purchase.
 
 2) From 'fast_buy_sell_bot' directory you need run bash script. Use these commands:
 
-# cd fast_buy_sell_bot
-
-# chmod +x ./installserverbash.sh
-
-#  ./installserverbash.sh
+# cd fast_buy_sell_bot && chmod +x ./installserverbash.sh && ./installserverbash.sh
 
 A couple of times during the execution of the script you will need to press "Y" to agree with the execution of the command.
 
