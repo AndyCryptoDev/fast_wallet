@@ -8,21 +8,21 @@ Our bot is implemented through a telegram bot. Using the Binance Smart Chain RPC
 
 # We give a trial period of 72 hours free of charge 
 
-# To grow our team we rent out this bot for: a month, 3 months, half a year and all the time
+To grow our team we rent out this bot for: a month, 3 months, half a year and all the time
 
-# Price:
-# 1 month - 59 BUSD
-# 3 month - 149 BUSD
-# 6 month - 259 BUSD
-# All the time - 500 BUSD
+Price:
+1 month - 59 BUSD
+3 month - 149 BUSD
+6 month - 259 BUSD
+All the time - 500 BUSD
 
-# This price includes: 24/7 support and regular updates
+This price includes: 24/7 support and regular updates
 
 https://fastdocs.sniperbot.top/main-solution
 
 Its ready for BSC now and active testing: Polygon, Ethereum, Cronos networks.
 
-Requirements: Server Ubuntu 20.04; webhooks; python3.8 with libraries web3, pytelegrambotapi, cherrypy; RPC endpoint of Binance Smart Chain; SFTP file manager.
+Requirements: Server Ubuntu 20.04; webhooks; python3.8 with libraries web3, pytelegrambotapi, cherrypy, pysqlite3, binance-connector; RPC endpoint of Binance Smart Chain; SFTP file manager.
 
 But since the bot emulates hand purchase it is not afraid of anti-bot systems.
 This repository contains the files required for its operation. 
