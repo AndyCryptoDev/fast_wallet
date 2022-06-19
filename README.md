@@ -1,10 +1,14 @@
 # fast wallet bot
 
+![image](https://user-images.githubusercontent.com/103894785/174501776-0a892018-70df-4576-b984-2ca608f1a23b.png)
+
 This bot allows you to buy and sell tokens very quickly and manage your wallet, much faster than you would do it by hand. 
 
 We often find that we need to buy and/or sell a token very quickly or use TP & SL orders for Pancake trading. For example, Call channels or PUMP groups, where your profit depends on the speed of buying and selling and take profit & stop loss.
 
-Our bot is implemented through a telegram bot. Using the Binance Smart Chain RPC endpoint. 
+Our bot is implemented through a telegram bot. Using the Binance Smart Chain RPC endpoint.
+
+## For a complete experience you can use http://t.me/test_fast_wallet_bot
 
 ## We give a trial period of 72 hours free of charge 
 
