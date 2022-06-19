@@ -22,7 +22,7 @@ Price:
 
 This price includes: 24/7 support and regular updates
 
-https://fastdocs.sniperbot.top/main-solution
+![GitBook](https://fastdocs.sniperbot.top/main-solution)
 
 Its ready for BSC now and active testing: Polygon, Ethereum, Cronos networks.
 
