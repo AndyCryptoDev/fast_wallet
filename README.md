@@ -46,7 +46,8 @@ cd fast_buy_sell_bot && chmod +x ./installserverbash.sh && ./installserverbash.s
 
 A couple of times during the execution of the script you will need to press "Y" to agree with the execution of the command.
 
-We will be asked to enter some information about ourselves: two-letter country code, organization name, etc. If you don't want to write anything, put a dot in the box. ## IMPORTANT: when you get to the point to enter "Common Name", you must write the IP address of the server on which the bot will run.
+We will be asked to enter some information about ourselves: two-letter country code, organization name, etc. If you don't want to write anything, put a dot in the box.
+## IMPORTANT: when you get to the point to enter "Common Name", you must write the IP address of the server on which the bot will run.
 
 <img width="769" alt="1" src="https://user-images.githubusercontent.com/103894785/163729159-4c1f4d48-4c2e-4755-878a-a1b05b7c4e13.png">
 
