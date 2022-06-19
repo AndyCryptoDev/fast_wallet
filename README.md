@@ -57,10 +57,10 @@ We will be asked to enter some information about ourselves: two-letter country c
 
 4) Get RPC Endpoint from https://docs.bnbchain.org/docs/rpc or any convenient RPC Endpoint
 
-https://ibb.co/HHBpT5m
+<img width="1010" alt="image" src="https://user-images.githubusercontent.com/103894785/174499653-52510cd6-ceb5-4e81-b4fb-75f70b159832.png">
 
 5) Filling out the config file
 
-
+<img width="754" alt="image" src="https://user-images.githubusercontent.com/103894785/174499686-315bf23d-7aa4-4894-9450-a2681bbb645f.png">
 
 In total you will have 7 files in the folder fast_buy_sell_bot
