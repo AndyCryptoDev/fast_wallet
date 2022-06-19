@@ -23,6 +23,7 @@ Price:
 This price includes: 24/7 support and regular updates
 
 ## [DOCS](https://fastdocs.sniperbot.top/main-solution)
+## [Channel](https://t.me/fast_wallet_channel) 
 
 Its ready for BSC now and active testing: Polygon, Ethereum, Cronos networks.
 
