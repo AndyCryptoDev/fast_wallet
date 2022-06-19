@@ -1,32 +1,44 @@
 # fast_buy_sell_bot
 
-This bot allows you to buy and sell tokens very quickly, much faster than you would do it by hand. 
+This bot allows you to buy and sell tokens very quickly and manage your wallet, much faster than you would do it by hand. 
 
-We often find that we need to buy and/or sell a token very quickly. For example, Call channels, where your profit depends on the speed of buying and selling.
+We often find that we need to buy and/or sell a token very quickly or use TP & SL orders for Pancake trading. For example, Call channels or PUMP groups, where your profit depends on the speed of buying and selling and take profit & stop loss.
 
-Our bot is implemented through a telegram bot. Using the Binance Smart Chain WebSocket nodes from https://moralis.io 
+Our bot is implemented through a telegram bot. Using the Binance Smart Chain RPC endpoint. 
 
-We have fully tested this bot on BSC and now in active testing: Polygon, Ethereum, Cronos, Milkada
+# We give a trial period of 72 hours free of charge 
 
-Orders of Take Profit and Stop Loss type are used here
+# To grow our team we rent out this bot for: a month, 3 months, half a year and all the time
 
-Requirements: Server Ubuntu 20.04; webhooks; python3.8 with libraries web3, pytelegrambotapi, cherrypy; Web Socket of Node Binance Smart Chain from Moralis.io; SFTP file manager.
+# Price:
+# 1 month - 59 BUSD
+# 3 month - 149 BUSD
+# 6 month - 259 BUSD
+# All the time - 500 BUSD
 
-To grow our team, we are selling this bot. Our price is average on the market.
+# This price includes: 24/7 support and regular updates
+
+https://fastdocs.sniperbot.top/main-solution
+
+Its ready for BSC now and active testing: Polygon, Ethereum, Cronos networks.
+
+Requirements: Server Ubuntu 20.04; webhooks; python3.8 with libraries web3, pytelegrambotapi, cherrypy; RPC endpoint of Binance Smart Chain; SFTP file manager.
+
 But since the bot emulates hand purchase it is not afraid of anti-bot systems.
-This repository contains the files required for its operation. The bot itself, we send you separately after payment.
+This repository contains the files required for its operation. 
+The bot itself, we send you separately.
 
-To purchase please contact: https://t.me/andycryptodev
+Contact: https://t.me/andycryptodev
 
-Let's start configuring the server to run the bot immediately after purchase.
+Let's start configuring the server to run the bot immediately.
 
 1) Clone the repository to your server. Use this command:
 
-# git clone https://github.com/AndyCryptoDev/fast_buy_sell_bot.git
+$ git clone https://github.com/AndyCryptoDev/fast_buy_sell_bot.git
 
 2) From 'fast_buy_sell_bot' directory you need run bash script. Use these commands:
 
-# cd fast_buy_sell_bot && chmod +x ./installserverbash.sh && ./installserverbash.sh
+$ cd fast_buy_sell_bot && chmod +x ./installserverbash.sh && ./installserverbash.sh
 
 A couple of times during the execution of the script you will need to press "Y" to agree with the execution of the command.
 
@@ -38,14 +50,8 @@ We will be asked to enter some information about ourselves: two-letter country c
 
 <img width="464" alt="2" src="https://user-images.githubusercontent.com/103894785/163729230-d23f72ef-4a5d-4b51-ad1c-e154a4066acb.png">
 
-4) Get web socket from https://moralis.io
-
-![3](https://user-images.githubusercontent.com/103894785/163729256-d41b4f4f-22b3-43a7-b362-e915ac88292c.jpg)
-
-![4](https://user-images.githubusercontent.com/103894785/163729267-6f797c3a-6cf9-45e3-b08f-310a68a5a2a2.jpg)
+4) Get RPC Endpoint from https://docs.bnbchain.org/docs/rpc
 
 5) Filling out the config file
-
-![7](https://user-images.githubusercontent.com/103894785/163729359-7f2f2722-32b5-4f68-b8d3-daacab401c3c.jpg)
 
 In total you will have 7 files in the folder fast_buy_sell_bot 
