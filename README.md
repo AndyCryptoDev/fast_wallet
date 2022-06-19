@@ -6,15 +6,15 @@ We often find that we need to buy and/or sell a token very quickly or use TP & S
 
 Our bot is implemented through a telegram bot. Using the Binance Smart Chain RPC endpoint. 
 
-# We give a trial period of 72 hours free of charge 
+## We give a trial period of 72 hours free of charge 
 
 To grow our team we rent out this bot for: a month, 3 months, half a year and all the time
 
 Price:
-1 month - 59 BUSD
-3 month - 149 BUSD
-6 month - 259 BUSD
-All the time - 500 BUSD
+- 1 month - 59 BUSD
+- 3 month - 149 BUSD
+- 6 month - 259 BUSD
+- All the time - 500 BUSD
 
 This price includes: 24/7 support and regular updates
 
@@ -34,15 +34,19 @@ Let's start configuring the server to run the bot immediately.
 
 1) Clone the repository to your server. Use this command:
 
-$ git clone https://github.com/AndyCryptoDev/fast_buy_sell_bot.git
+```bash
+git clone https://github.com/AndyCryptoDev/fast_buy_sell_bot.git
+```
 
 2) From 'fast_buy_sell_bot' directory you need run bash script. Use these commands:
 
-$ cd fast_buy_sell_bot && chmod +x ./installserverbash.sh && ./installserverbash.sh
+```bash
+cd fast_buy_sell_bot && chmod +x ./installserverbash.sh && ./installserverbash.sh
+```
 
 A couple of times during the execution of the script you will need to press "Y" to agree with the execution of the command.
 
-We will be asked to enter some information about ourselves: two-letter country code, organization name, etc. If you don't want to write anything, put a dot in the box. IMPORTANT: when you get to the point to enter "Common Name", you must write the IP address of the server on which the bot will run.
+We will be asked to enter some information about ourselves: two-letter country code, organization name, etc. If you don't want to write anything, put a dot in the box. ## IMPORTANT: when you get to the point to enter "Common Name", you must write the IP address of the server on which the bot will run.
 
 <img width="769" alt="1" src="https://user-images.githubusercontent.com/103894785/163729159-4c1f4d48-4c2e-4755-878a-a1b05b7c4e13.png">
 
