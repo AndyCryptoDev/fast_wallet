@@ -8,7 +8,7 @@ We often find that we need to buy and/or sell a token very quickly or use TP & S
 
 Our bot is implemented through a telegram bot. Using the Binance Smart Chain RPC endpoint.
 
-## For a complete experience you can use http://t.me/test_fast_wallet_bot
+## For a complete experience you can use [TEST Fast Wallet](http://t.me/test_fast_wallet_bot)
 
 ## We give a trial period of 72 hours free of charge 
 
