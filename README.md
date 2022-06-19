@@ -1,6 +1,6 @@
 # fast wallet bot
 
-![image](https://user-images.githubusercontent.com/103894785/174501776-0a892018-70df-4576-b984-2ca608f1a23b.png)
+![image](https://user-images.githubusercontent.com/103894785/174501948-6af1f398-50ec-4c9a-b923-109621c02d3a.png)
 
 This bot allows you to buy and sell tokens very quickly and manage your wallet, much faster than you would do it by hand. 
 
