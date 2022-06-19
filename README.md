@@ -63,4 +63,4 @@ We will be asked to enter some information about ourselves: two-letter country c
 
 <img width="754" alt="image" src="https://user-images.githubusercontent.com/103894785/174499686-315bf23d-7aa4-4894-9450-a2681bbb645f.png">
 
-In total you will have 7 files in the folder fast_buy_sell_bot
+In total you will have 7 files in the folder fast_wallet
