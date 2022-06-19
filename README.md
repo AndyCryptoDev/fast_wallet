@@ -1,4 +1,4 @@
-# fast_buy_sell_bot
+# Fast wallet bot
 
 This bot allows you to buy and sell tokens very quickly and manage your wallet, much faster than you would do it by hand. 
 
@@ -35,13 +35,13 @@ Let's start configuring the server to run the bot immediately.
 1) Clone the repository to your server. Use this command:
 
 ```bash
-git clone https://github.com/AndyCryptoDev/fast_buy_sell_bot.git
+git clone https://github.com/AndyCryptoDev/fast_wallet.git
 ```
 
-2) From 'fast_buy_sell_bot' directory you need run bash script. Use these commands:
+2) From 'fast_wallet' directory you need run bash script. Use these commands:
 
 ```bash
-cd fast_buy_sell_bot && chmod +x ./installserverbash.sh && ./installserverbash.sh
+cd fast_wallet && chmod +x ./installserverbash.sh && ./installserverbash.sh
 ```
 
 A couple of times during the execution of the script you will need to press "Y" to agree with the execution of the command.
