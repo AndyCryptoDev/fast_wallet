@@ -55,7 +55,7 @@ We will be asked to enter some information about ourselves: two-letter country c
 
 <img width="464" alt="2" src="https://user-images.githubusercontent.com/103894785/163729230-d23f72ef-4a5d-4b51-ad1c-e154a4066acb.png">
 
-4) Get RPC Endpoint from https://docs.bnbchain.org/docs/rpc
+4) Get RPC Endpoint from https://docs.bnbchain.org/docs/rpc or any convenient RPC Endpoint
 
 
 
