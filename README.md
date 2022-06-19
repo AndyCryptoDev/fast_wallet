@@ -1,4 +1,4 @@
-# Fast wallet bot
+# fast wallet bot
 
 This bot allows you to buy and sell tokens very quickly and manage your wallet, much faster than you would do it by hand. 
 
