@@ -66,9 +66,15 @@ We will be asked to enter some information about ourselves: two-letter country c
 
 5) Filling out the config file
 
+```bash
+nano config.py
+```
+
 <img width="754" alt="image" src="https://user-images.githubusercontent.com/103894785/174499686-315bf23d-7aa4-4894-9450-a2681bbb645f.png">
 
 In total you will have 7 files in the folder fast_wallet
 
 [Video manual for Server purchase and software setup](https://www.youtube.com/watch?v=x-pgLICXQ18)
+
+
 [Video manual for Setting up a server for the bot](https://www.youtube.com/watch?v=1VjPCTe6T0M)
