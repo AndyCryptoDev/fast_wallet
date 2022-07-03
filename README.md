@@ -12,13 +12,11 @@ Our bot is implemented through a telegram bot. Using the Binance Smart Chain RPC
 
 ## We give a trial period of 72 hours free of charge 
 
-To grow our team we rent out this bot for: a month, 3 months, half a year and all the time
+To grow our team we rent out this bot for: a month or full version purchase
 
 Price:
-- 1 month - 59 BUSD
-- 3 month - 149 BUSD
-- 6 month - 259 BUSD
-- All the time - 500 BUSD
+- 1 month - $149
+- full version purchase - $999
 
 This price includes: 24/7 support and regular updates
 
