@@ -8,22 +8,20 @@ We often find that we need to buy and/or sell a token very quickly or use TP & S
 
 Our bot is implemented through a telegram bot. Using the Binance Smart Chain RPC endpoint.
 
-## For a complete experience you can use [TEST Fast Wallet](http://t.me/test_fast_wallet_bot)
-
 ## We give a trial period of 72 hours free of charge 
 
 To grow our team we rent out this bot for: a month or full version purchase
 
 Price:
-- 1 month - $149
-- full version purchase - $999
+- 1 month - $249
+- full version purchase - $1500
 
 This price includes: 24/7 support and regular updates
 
 ## [DOCS](https://fastdocs.sniperbot.top/main-solution)
 ## [Channel](https://t.me/fast_wallet_channel) 
 
-Its ready for BSC now and active testing: Polygon, Ethereum, Cronos networks.
+Its ready for BSC, Polygon, Ethereum, Cronos networks now.
 
 Requirements: Server Ubuntu 20.04; webhooks; python3.8 with libraries web3, pytelegrambotapi, cherrypy, pysqlite3, binance-connector; RPC endpoint of Binance Smart Chain; SFTP file manager.
 
