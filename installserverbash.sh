@@ -24,6 +24,7 @@ pip3 install pytelegrambotapi
 pip3 install cherrypy
 pip3 install pysqlite3
 pip3 install binance-connector
+pip3 install --upgrade certifi
 
 #Generation of self-signed SSL certificates
 
@@ -32,7 +33,7 @@ openssl genrsa -out webhook_pkey.pem 2048
 openssl req -new -x509 -days 3650 -key webhook_pkey.pem -out webhook_cert.pem
 
 #You should have 7 files in this folder after installing all libraries and dependencies
-
-ls -l
+python3 --version
+ls
 
 
